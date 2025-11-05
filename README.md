@@ -30,7 +30,7 @@ https://docs.google.com/videos/d/1T7gN-nNIeq22QoMjkVqCD9RPjZTdO_Wp8-NWtPZXPqs/ed
 
 ---
 
-##Webite URL
+## Website URL
 https://cloud-sync-tool23-2hwv2mmqb-manisha-jha23s-projects.vercel.app/
 
 ---
