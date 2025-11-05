@@ -27,6 +27,14 @@ It enables users to securely upload, store, and manage their files with automati
 ---
 ## Working of Backend
 https://docs.google.com/videos/d/1T7gN-nNIeq22QoMjkVqCD9RPjZTdO_Wp8-NWtPZXPqs/edit?usp=sharing
+
+---
+
+##Webite URL
+https://cloud-sync-tool23-2hwv2mmqb-manisha-jha23s-projects.vercel.app/
+
+---
+
 ## ⚙️ Installation & Setup
 
 1. **Clone the repository**
