@@ -25,7 +25,8 @@ It enables users to securely upload, store, and manage their files with automati
 **Email Service:** AWS Simple Email Service (SES)  
 
 ---
-
+## Working of Backend
+https://docs.google.com/videos/d/1T7gN-nNIeq22QoMjkVqCD9RPjZTdO_Wp8-NWtPZXPqs/edit?usp=sharing
 ## ⚙️ Installation & Setup
 
 1. **Clone the repository**
